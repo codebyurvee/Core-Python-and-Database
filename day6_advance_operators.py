@@ -17,5 +17,14 @@ a ^ b #xor
 a >> b #left shift
 a << b #right shift
 
+#QUESTIONS
+# Write a program in Python to calculate simple interest?
+# Write a program in Python to calculate the area of a circle?
+# Write a program in Python to calculate the area of a square?
+# Write a program in Python to calculate the total number of marks and percentage of 5 subject
+# Write a program in Python to swap 2 numbers using 3 variables?
+# Write a program in Python to swap 2 numbers using 2 variables?
+# Write a program to read a number in the dollar and convert it to INR?
+# Write a program to calculate the volume of a cylinder
 
 
