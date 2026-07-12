@@ -133,4 +133,13 @@ Split "Apple Mango Banana" into a list.
 Join ["AI", "ML", "DL"] using "-".
 Find the index of "g" in "Programming".
 Print a sentence using an f-string
-
+#Check if a string is palindrome
+#remove all the vowels in a given string
+#Reverse a string
+#convert first letter of each word capital
+#Convert string to uppercase and lowercase
+# Count vowels in a string
+# Reverse words in a sentence
+# Replace spaces with underscores
+#Find the length of a string without using len()
+# Remove duplicate characters from a string
